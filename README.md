@@ -1,3 +1,5 @@
+Employee Salary Prediction
+
 📌 Project Overview
 
 Employee Salary Prediction is a Machine Learning web application that predicts an employee's estimated annual salary based on their work-related information.
@@ -112,6 +114,7 @@ This project is created for educational and learning purposes.
 
 #Project Screenshot
 
-<img width="1519" height="739" alt="image" src="https://github.com/user-attachments/assets/b6dfcc06-cd69-45cd-a0bf-fc855e2a2ef8" />
+<img width="1525" height="731" alt="Projec-screenshot" src="https://github.com/user-attachments/assets/880a8e9c-4bd5-4649-823c-84c69a0f3d31" />
+
 
 <img width="1519" height="739" alt="Projec-screenshot 2" src="https://github.com/user-attachments/assets/e3b4d690-0786-48bc-b5c1-24407ccab6a1" />
