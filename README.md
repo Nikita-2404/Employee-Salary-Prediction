@@ -1,6 +1,6 @@
-Employee Salary Prediction
+# Employee Salary Prediction
 
-📌 Project Overview
+# 📌 Project Overview
 
 Employee Salary Prediction is a Machine Learning web application that predicts an employee's estimated annual salary based on their work-related information.
 
@@ -24,7 +24,7 @@ Tailwind CSS
 
 The frontend is included directly inside app.py using Flask's render_template_string(), so separate templates and static folders are not required.
 
-🤖 Machine Learning Model
+# 🤖 Machine Learning Model
 
 The project uses a Random Forest Regressor with:
 
@@ -44,14 +44,14 @@ salary	Target salary
 
 The application reads these columns from employee_salary_dataset.csv.
 
-📂 Project Structure
+# 📂 Project Structure
 Employee-Salary-Prediction/
 │
 ├── app.py
 ├── employee_salary_dataset.csv
 ├── requirements.txt
 └── README.md
-🔄 Project Workflow
+# 🔄 Project Workflow
 Employee Dataset
        ↓
 Data Loading
@@ -80,7 +80,7 @@ Weekly Work Hours
 
 The prediction is then displayed as an estimated annual salary.
 
-▶️ How to Run the Project
+# ▶️ How to Run the Project
 1. Clone the repository
 git clone https://github.com/Nikita-2404/Employee-Salary-Prediction.git
 2. Open the project
@@ -97,7 +97,7 @@ http://127.0.0.1:5000/
 
 The application runs Flask on port 5000.
 
-✨ Features
+# ✨ Features
 🤖 Machine Learning salary prediction
 🌐 Flask web application
 📊 Random Forest regression
@@ -112,7 +112,7 @@ Nikita
 📄 License
 This project is created for educational and learning purposes.
 
-#Project Screenshot
+# Project Screenshot
 
 <img width="1525" height="731" alt="Projec-screenshot" src="https://github.com/user-attachments/assets/880a8e9c-4bd5-4649-823c-84c69a0f3d31" />
 
