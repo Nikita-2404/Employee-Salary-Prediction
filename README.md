@@ -1,5 +1,11 @@
 📌 Project Overview
 
+## 📸 Project Screenshot
+
+![Employee Salary Prediction](project-screenshot.jpeg)
+
+![Employee Salary Prediction](project-screenshot 2.jpeg)
+
 Employee Salary Prediction is a Machine Learning web application that predicts an employee's estimated annual salary based on their work-related information.
 
 The application uses a Random Forest Regressor to predict salary from four numerical features: years of experience, performance score, number of certifications, and weekly working hours.
