@@ -1,6 +1,8 @@
 📌 Project Overview
 
 ## 📸 Project Screenshot
+<img width="1519" height="739" alt="Projec-screenshot 2" src="https://github.com/user-attachments/assets/019ce536-ec29-4dd6-96e4-5666fa6120f4" />
+<img width="1525" height="731" alt="Projec-screenshot" src="https://github.com/user-attachments/assets/118dc69d-fdc7-441d-a81f-b8010bb42cf3" />
 
 ![Employee Salary Prediction](project-screenshot.jpeg)
 
@@ -115,3 +117,7 @@ Nikita
 
 📄 License
 This project is created for educational and learning purposes.
+
+<img width="1519" height="739" alt="image" src="https://github.com/user-attachments/assets/b6dfcc06-cd69-45cd-a0bf-fc855e2a2ef8" />
+
+<img width="1519" height="739" alt="Projec-screenshot 2" src="https://github.com/user-attachments/assets/e3b4d690-0786-48bc-b5c1-24407ccab6a1" />
